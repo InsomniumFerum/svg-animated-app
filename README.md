@@ -1,5 +1,4 @@
 # Svg-animated-app
-# Flex-panel-gallery-js-css
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
